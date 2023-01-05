@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SecondInClassActivity</string>
+
+        <string-array name="spinner_options">
+            <item>Full time</item>
+            <item>Part time</item>
+        </string-array>
+
+</resources>
